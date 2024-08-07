@@ -13,4 +13,4 @@
 • vaa2005@yandex.ru
 • https://github.com/OlehandroO
 
-![image](..\portfolio\photo.jpg)
+![image](/photo.jpg)
